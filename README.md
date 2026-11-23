@@ -4,7 +4,7 @@ Welcome to the source code for Ravi & Anita's digital wedding invitation!
 This is a beautiful, responsive single-page wedding invitation website built with React and Vite.
 
 ## 💍 Live Website
-*(Add your live URL here once deployed, e.g., https://ravi-anita-wedding.onrender.com)*
+*https://ravi-anita-wedding.onrender.com*
 
 ## 🛠️ Tech Stack
 - React
